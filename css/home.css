@@ -1,0 +1,25 @@
+﻿
+A.nav1:link {COLOR: #ffffff;font-size:14px;font-family: '黑体';font-weight: bold;TEXT-DECORATION: none}
+A.nav1:visited {COLOR: #ffffff;font-size:14px;font-family: '黑体';font-weight:bold;TEXT-DECORATION: none;}
+A.nav1:hover {COLOR: #ffff00;font-size:14px;font-family: '黑体';font-weight:bold;TEXT-DECORATION: underline;}
+A.nav3:link {COLOR: #ffffff;font-size:12px;font-weight: bold;;TEXT-DECORATION: none}
+A.nav3:visited {COLOR: #ffffff;font-size:12px;font-weight:bold;TEXT-DECORATION: none;}
+A.nav3:hover {COLOR: #ffff00;font-size:12px;font-weight:bold;TEXT-DECORATION: underline;}
+A.weizhi:link {COLOR: #d0ebff;font-size:12px;font-weight: lighter;;TEXT-DECORATION: none}
+A.weizhi:visited {COLOR: ##d0ebff;font-size:12px;font-weight:lighter;TEXT-DECORATION: none;}
+A.weizhi:hover {COLOR: #ffff00;font-size:12px;font-weight:lighter;TEXT-DECORATION: underline;}
+A.teacher:link {COLOR: #003399;font-size:12px;font-weight: bold;;TEXT-DECORATION: none}
+A.teacher:visited {COLOR: ##003399;font-size:12px;font-weight:bold;TEXT-DECORATION: none;}
+A.teacher:hover {COLOR: #ff0000;font-size:12px;font-weight:bold;TEXT-DECORATION: underline;}
+A.list:link {COLOR: #286BCA;font-size:14px;font-family: '黑体';font-weight: bold;;TEXT-DECORATION: none}
+A.list:visited {COLOR: #286BCA;font-size:14px;font-family: '黑体';font-weight:bold;TEXT-DECORATION: none;}
+A.list:hover {COLOR: #286BCA;font-size:14px;font-family: '黑体';font-weight:bold;TEXT-DECORATION: underline;}
+A.nav2:link {COLOR: #003399;font-weight:bold;TEXT-DECORATION: none;}
+A.nav2:visited {COLOR: #003399;font-weight:bold;TEXT-DECORATION: none;}
+A.nav2:hover {COLOR: #FF0000;font-weight:bold;TEXT-DECORATION: underline;}
+A.index:link {COLOR: #003399;TEXT-DECORATION: none;}
+A.index:visited {COLOR: #003399;TEXT-DECORATION: none;}
+A.index:hover {COLOR: #FF6600;TEXT-DECORATION: underline;}
+A.my:link {COLOR: #0099CC;font-weight:bold;TEXT-DECORATION: underline;}
+A.my:visited {COLOR: #0099CC;font-weight:bold;TEXT-DECORATION: underline;}
+A.my:hover {COLOR: #FF6600;font-weight:bold;TEXT-DECORATION: underline;}
